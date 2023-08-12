@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Zachary**, a **high school student** stduy in **Beijing**. <br/>
+I'm **Zachary T.**, a **high school student** stduy in **Beijing**. <br/>
 I learned to use **Python** in high school, and I'm also interested in **biology** and **photography**.
 
 <!--
